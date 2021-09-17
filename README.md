@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!-- INTRO CARD 
 <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
@@ -25,14 +25,16 @@
 
 ---
 
+<br>
+
 ### You can find in me in the web 🌍
 [<img align="left" alt="dariovasc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vasconcelosdario | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dariogsv | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dgsv | @cin.ufpe.br" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
 <br>
-                                                                   
----
+<br>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 <!--
