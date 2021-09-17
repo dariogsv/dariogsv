@@ -26,10 +26,10 @@
 ---
 
 ### You can find in me in the web 🌍
-<img align="left" alt="dariovasc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="vasconcelosdario | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="dariogsv | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /> 
-<img align="left" alt="dgsv | @cin.ufpe.br" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+[<img align="left" alt="dariovasc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vasconcelosdario | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dariogsv | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="dgsv | @cin.ufpe.br" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 <br>
                                                                    
 ---
@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[linkedin]: https://www.linkedin.com/in/dariovasc/
+[instagram]: https://www.instagram.com/vasconcelosdario/
+[facebook]: https://www.facebook.com/dariogsv/
+[gmail]:mailto:dgsv@cin.ufpe.br
