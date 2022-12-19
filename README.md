@@ -36,7 +36,7 @@
 <br>
 <br>
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+Let's connect and forge the future together.😁✌
 <!--
 **dariogsv/dariogsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
